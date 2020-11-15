@@ -92,6 +92,9 @@ We conduct our transaction digitally . In case of cash on delivery we will give 
 
 # How to Use?
 
+![Wireframe - Cholo Jai - Delivary Network1 ](https://user-images.githubusercontent.com/28553170/99160463-e67fe200-2711-11eb-93e8-762c13a9e1c9.jpg)
+
+
 Step 1:
 Install weDeliver App from AppStore or Google Playstore or on the web.
 
@@ -111,14 +114,22 @@ Step 3:  How to sign up?
 
 # How this app works?
 
+
+![Wireframe - Cholo Jai - Delivary Network2 ](https://user-images.githubusercontent.com/28553170/99160471-fdbecf80-2711-11eb-97d9-7d3538989b47.jpg)
+
+
 1. Have a WeDeliver registered account first then login.
 2. To keep activated your account, please deposit your e-wallet and get update about substations.
 3. We need your location to track you. Please give GPS and Data permission as it is mandatory.
 4. In the next page you can find map. Search the suitable area where you can easily deliver your package.
 
+![Wireframe - Cholo Jai - Delivary Network3 ](https://user-images.githubusercontent.com/28553170/99160481-18914400-2712-11eb-9a8e-8dd95cc7de71.jpg)
+
 Select your suitable area of delivery. If you are willing to pick this shipping within 45 minutes, please confirm pick up.
 We will provide you the location of the customer according to your experience (We will count your successful delivery points) and e-wallet balance. Please check the address and If you have picked the parcel from the substation, please start your journey .
 
+
+![Wireframe - Cholo Jai - Delivary Network4 ](https://user-images.githubusercontent.com/28553170/99160498-39599980-2712-11eb-93eb-fb2f72942715.jpg)
 
 
 1. When you will reach the customer’s destination, the app will pop up a ‘Call Now’ option where you can tap and directly call to customer.
@@ -126,6 +137,8 @@ We will provide you the location of the customer according to your experience (W
 3. After scanning the QR code, you will get a new window where he will have to choose payment method depending on customer’s choice.
 4. If the customer wants to pay in physical cash, then you will select ‘Digital Cash on Delivery’. Otherwise you will select “Digital Currency”
 
+
+![Wireframe - Cholo Jai - Delivary Network ](https://user-images.githubusercontent.com/28553170/99160501-41b1d480-2712-11eb-8ee5-69a471db2017.jpg)
 
 
 a) If the customer is willing to pay COD then you have to pay money from your e-wallet and take the money manually. Then recharge the same account as soon as possible from the nearest center.  
