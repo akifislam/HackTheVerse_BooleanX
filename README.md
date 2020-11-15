@@ -1,6 +1,6 @@
 # HackTheVerse_BooleanX
 **Team Name**: BooleanX
-**Team Leader's Name **: Akif Islam
+**Team Leader's Name**: Akif Islam
 **Team Members' Names** :
  1. Akif Islam
  2. Nourin Nusrat Jhahan
