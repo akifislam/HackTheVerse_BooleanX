@@ -1,17 +1,19 @@
 # HackTheVerse_BooleanX
-Team Name: BooleanX
-Team Leader's Name: Akif Islam
-Team Members' Names:
+**Team Name**: BooleanX
+**Team Leader's Name **: Akif Islam
+**Team Members' Names** :
+ 1. Akif Islam
+ 2. Nourin Nusrat Jhahan
+ 3. Mohd. Ruhul Ameen
+ 4. Sumaiya Akter
 
-Akif Islam
-Nourin Nusrat Jhahan
-Mohd. Ruhul Ameen
-Sumaiya Akter
+# Prototype
 
-Slack channel link/ID:  ﻿#_s08_booleanx
+**View Live Prototype Here ** : https://akifislam120829.invisionapp.com/console/share/YU1SJGBL5E
 
-View Live Prototype Here: https://akifislam120829.invisionapp.com/console/share/YU1SJGBL5E
 
+
+![Wireframe - Cholo Jai - Delivary Network ](https://user-images.githubusercontent.com/28553170/99160594-25fafe00-2713-11eb-88fd-1710f3fbdaf6.jpg)
 
 # Problem Identification and Risk Analysis
 
