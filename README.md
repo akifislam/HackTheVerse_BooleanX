@@ -76,9 +76,19 @@ We will use the built in Global Positioning System of delivery man’s smartphon
 We conduct our transaction digitally . In case of cash on delivery we will give a QR code our package and the customer will scan the product and payment will be in online currency.  Customers pay money directly to  the company account. Our delivery men have some deposited money on their account. In case the customers are willing to pay in cash then the deposited digital currency will be cut from our delivery man's account. The Delivery man will recharge their online currency account daily. After collecting cash he has to recharge the collected money from the nearest center as soon as possible because of security.
 # Use Case Diagram
 
+![unnamed](https://user-images.githubusercontent.com/28553170/99160423-6b1e3080-2711-11eb-8600-17076add38e2.png)
+
 # Activity Diagram
+![Activity Diagram (1)](https://user-images.githubusercontent.com/28553170/99160440-a3257380-2711-11eb-8379-6e282aabf45a.png)
+
+
 
 # Data Flow Diagram
+
+![Data Flow Diagram](https://user-images.githubusercontent.com/28553170/99160450-b0426280-2711-11eb-9095-b3c6ac28c275.png)
+
+
+
 
 # How to Use?
 
